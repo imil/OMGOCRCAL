@@ -1,0 +1,156 @@
+Let's assume that tab equals 8 spaces
+Let's draw characters randomly
+Let's allow user to make mistakes
+
+Now we'll define numbers
+
+Zero is
+	a large circle
+
+One is
+	either
+		a long vertical line
+	or
+		a long vertical line
+		a very small slash line
+		top of first joins top of second
+
+Two is
+	either
+		a part of circle 12 to 6
+		a long horizontal line
+		6 of first joins left of second
+	or
+		a part of circle 9 to 5
+		a slash line
+		a long horizontal line
+		5 of first joins top of second
+		bottom of second joins left of third
+
+Three is
+	either
+		a part of circle 11 to 6
+		a part of circle 12 to 7
+		6 of first joins 12 of second
+	or
+		a long horizontal line
+		a slash line
+		a part of circle 11 to 7
+		right of first joins top of second
+		bottom of second joins 11 of third
+		
+
+Four is
+	either
+		a small slash line
+		a long horizontal line
+		a small vertical line
+		bottom of first joins left of second
+		second intersects third
+	or
+		a small vertical line
+		a long horizontal line
+		a long vertical line
+		bottom of first joins left of second
+		right of second joins middle of third
+
+Five is
+	a long horizontal line
+	a small vertical line
+	a part of circle 11 to 7
+	left of first joins top of second
+	bottom of second joins 11 of third
+	
+Six is
+'	either
+'		a six-shape
+'	or
+		a small slash line
+		a small circle
+		bottom of first joins 10 of second
+		
+Seven is
+	either
+		a long horizontal line
+		a long slash line
+		right of first joins top of second
+	or
+		a long horizontal line
+		a long slash line
+		a very short horizontal line
+		right of first joins top of second
+		third intersects second
+
+Eight is
+'	either
+'		an eight-like-shape
+'	or
+		a small circle
+		a small circle
+		6 of first joins 12 of second
+		
+Nine is
+'	either
+'		a nine-shape
+'	or
+		a small circle
+		a small slash line
+		5 of first joins top of second
+
+So now all numbers are covered and we'll describe operators
+
+Plus is
+	a horizontal line
+	a vertical line
+	first intersects second
+
+Multiply is
+	a short slash line
+	a short backslash line
+	first intersects second
+
+Divide is
+	a slash line
+
+Minus is
+	a horizontal line
+
+Equals is
+	a horizontal line
+	a horizontal line
+	first never intersects second
+
+Finally there are letters that can't be entered by user but may be present in output
+
+LetterE is
+	a long vertical line
+	a long horizontal line
+	a long horizontal line
+	a long horizontal line
+	left of second joins top of first
+	left of third joins middle of first
+	left of fourth joins bottom of first
+	
+LetterR is
+	either
+		a short vertical line
+		a long horizontal line
+		top of first joins left of second
+	or
+		a short vertical line
+		a part of small circle 9 to 12
+		middle of first joins 9 of second 
+		
+Oh, I've almost forgotten to include decimal point
+
+Dot is
+	a very small circle
+	
+	
+Now let's define the order of numbers
+
+Numbers are
+	Zero One Two Three Four Five Six Seven Eight Nine
+
+That's all!
+	
